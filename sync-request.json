@@ -1,0 +1,10 @@
+{
+  "config": {
+      "encoding":"LINEAR16",
+      "sampleRateHertz": 16000,
+      "languageCode": "en-US"
+  },
+  "audio": {
+      "uri":"gs://transcriptionaudio/speech.wav"
+  }
+}
